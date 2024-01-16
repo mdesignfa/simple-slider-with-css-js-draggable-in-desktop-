@@ -1,9 +1,9 @@
 # simple-slider-with-css-js-draggable-in-desktop-
-A simple &amp; Light Slider for touch and normal devices like Desktops with few options
+A simple &amp; Light Slider for touch and normal devices like Desktops with few options 🎚
 
-Tested Cross-Browsers with Edge/Firefox/Chrome/Opera/Yandex
+Tested Cross-Browsers with Edge/Firefox/Chrome/Opera/Yandex 🌐
 
-ScreenShots:
+ScreenShots: 📸
 
 ![simpleslider](https://github.com/mdesignfa/simple-slider-with-css-js-draggable-in-desktop-/assets/104726280/befe926c-bd36-4013-a632-5cdf6ab76053)
 
